@@ -1,0 +1,63 @@
+a{
+    color: white;
+    }
+    
+    a:hover{
+      color: #f3f0d7;
+    }
+    
+    h1{
+      font-size: 2.5rem;
+      color:white;
+      text-align: left;
+    }
+    
+    form{
+    text-align :left
+    }
+    
+    .navbar{
+      padding: 2% 0 2% 0;
+    }
+    
+    .title-content{
+      padding: 15% 0 10% 0;
+    
+    }
+    
+    .black-overlay{
+      background-color: rgba(0,0,0, 0.2);
+      width: 100%;
+      height: 100vh;
+      position: absolute;
+      top:0;
+      left: 0;
+      z-index: 0;
+    }
+    
+    .top-strip{
+      background-color: white;
+      color: black;
+      padding: 10px;
+    }
+    
+    .attribution{
+      position: absolute;
+      bottom: 10px;
+      right: 30px;
+      color: gray;
+      font-weight: bold;
+    }
+    
+    .nav-icons{
+      font-size: 25px;
+    }
+    
+    #title{
+      background-image: url("Images/img.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      height: 100vh;
+      text-align: center;
+    }
