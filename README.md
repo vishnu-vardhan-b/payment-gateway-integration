@@ -1,0 +1,1 @@
+Created a simple website where payment gateway is integrated.There will be a donate button on homepage.By clicking the donate button, the user will be directed to the payment page where user can select the mode of payment and the amount to be paid. On successful completion of payment an invoice will be generated and email will be sent to the user containing the invoice.
